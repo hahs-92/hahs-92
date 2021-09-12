@@ -1,4 +1,4 @@
-h2> Hey there! I'm Alex. </h2>
+<h2> Hey there! I'm Alex. </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -17,8 +17,8 @@ h2> Hey there! I'm Alex. </h2>
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🛢 &nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -40,11 +40,10 @@ h2> Hey there! I'm Alex. </h2>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://hahsportfolio.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/hugo-alexander-hernandez-serrano-14200a215/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://hahsportfolio.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-hahsportfolio.web.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/hugo-alexander-hernandez-serrano-14200a215/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hahs-92-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:alexandre_2420@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-alexandre_2420@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-### Hi there 👋
 
 <!--
 **hahs-92/hahs-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
