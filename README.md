@@ -1,4 +1,4 @@
-h2> Hey there! I'm Alex Hernandez.</h2>
+h2> Hey there! I'm Alex. </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -32,7 +32,7 @@ h2> Hey there! I'm Alex Hernandez.</h2>
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hahs-92&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahs-928&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hahs-92&theme=buefy&layout=compact" />
 </a>
 
 <br/>
