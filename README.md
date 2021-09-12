@@ -3,10 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying wed development at Platzi.
+- 💼 &nbsp; I am looking for opportunities to show my talents.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -19,7 +17,9 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 - 🛢 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="https://hahsportfolio.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-hahsportfolio.web.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/hugo-alexander-hernandez-serrano-14200a215/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hahs-92-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hugo-alexander-hernandez-serrano-14200a215/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hahs-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:alexandre_2420@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-alexandre_2420@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
