@@ -15,16 +15,19 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 - 🛢 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MongoDB](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=spring-boot)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Intelli JIDEA](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
