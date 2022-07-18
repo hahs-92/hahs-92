@@ -15,6 +15,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 - 🛢 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
