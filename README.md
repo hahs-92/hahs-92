@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.  
 - 🎓 &nbsp; Studying wed development at Platzi.
-- 💼 &nbsp; I am looking for opportunities to show my talents.
+- 🔭 I’m currently working on Sofka Tecnologies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -54,6 +54,7 @@
 
 Here are some ideas to get you started:
 
+- 💼 &nbsp; I am looking for opportunities to show my talents.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
